@@ -1,4 +1,3 @@
-# CarFixHub
 
 # Installation
 
